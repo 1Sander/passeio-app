@@ -4,6 +4,16 @@
       "id": "2",
       "nome": "Shoppings",
       "descricao": "Lugares para fazer compras e passear"
+    },
+    {
+      "id": "da99",
+      "nome": "Cinema",
+      "descricao": "Lugares para assistir filme com os amigos."
+    },
+    {
+      "id": "2f35",
+      "nome": "Praias",
+      "descricao": "Lugares para se divertir"
     }
   ]
 }

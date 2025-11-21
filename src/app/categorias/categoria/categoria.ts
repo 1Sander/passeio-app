@@ -23,10 +23,13 @@ export class Categoria {
     this.camposForm.markAllAsTouched();
 
     if(this.camposForm.valid){
-      this.service.salvar(this.camposForm.value)
-      .subscribe(categoria => {
-       // next: categoria => console.log('Salva com Sucesso!', categoria),
-      //  error: erro => console.error('Ocorreu um erro', erro);
+      this.service
+      .salvar(this.camposForm.value)
+      .subscribe({
+        next: categoria => {
+          this.camposForm.reset();
+        },
+        error: erro => console.error('Ocorreu um erro', erro)
       });
     }
 
