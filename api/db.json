@@ -14,6 +14,29 @@
       "id": "2f35",
       "nome": "Praias",
       "descricao": "Lugares para se divertir"
+    },
+      {
+          "id": "3",
+          "nome": "Parques",
+          "descricao": "Lugares para sair"
+      }
+  ],
+  "lugares": [
+    {
+      "id": "4fea",
+      "nome": "Praia do Zé",
+      "categoria": "Praias",
+      "localizacao": "Rio de Janeiro",
+      "urlFoto": "teste",
+      "avaliacao": "4"
+    },
+    {
+      "id": "cc17",
+      "nome": "Praia do Espelho",
+      "categoria": "Praias",
+      "localizacao": "Bahia",
+      "urlFoto": "https://www.melhoresdestinos.com.br/wp-content/uploads/2020/11/praia-do-espelho-capa2019.jpg",
+      "avaliacao": "5"
     }
   ]
 }
