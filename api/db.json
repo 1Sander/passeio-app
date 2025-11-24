@@ -15,11 +15,11 @@
       "nome": "Praias",
       "descricao": "Lugares para se divertir"
     },
-      {
-          "id": "3",
-          "nome": "Parques",
-          "descricao": "Lugares para sair"
-      }
+    {
+      "id": "3",
+      "nome": "Parques",
+      "descricao": "Lugares para sair"
+    }
   ],
   "lugares": [
     {
@@ -27,7 +27,7 @@
       "nome": "Praia do Zé",
       "categoria": "Praias",
       "localizacao": "Rio de Janeiro",
-      "urlFoto": "teste",
+      "urlFoto": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/09/2d/df/jmn009.jpg?w=1200&h=-1&s=1",
       "avaliacao": "4"
     },
     {
@@ -36,6 +36,14 @@
       "categoria": "Praias",
       "localizacao": "Bahia",
       "urlFoto": "https://www.melhoresdestinos.com.br/wp-content/uploads/2020/11/praia-do-espelho-capa2019.jpg",
+      "avaliacao": "5"
+    },
+    {
+      "id": "3",
+      "nome": "Parque Ibirapuera",
+      "categoria": "Parques",
+      "localizacao": "São Paulo",
+      "urlFoto": "https://parqueibirapuera.org/wp/wp-content/uploads/2016/03/RN-Ibirapuera-Aerea-20150121-5-1-foto-destacada-resized.jpg",
       "avaliacao": "5"
     }
   ]
